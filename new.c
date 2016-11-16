@@ -1,2 +1,2 @@
 //This is something new
-//This is master branch
+//This is resolved
